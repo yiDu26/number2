@@ -3,6 +3,10 @@ import Solution10.*;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
+    /**
+     * 测试方法满足等价类划分原则，测试方法均通过
+     */
+
 class L2022211908_10_Test {
     Solution10 solution = new Solution10();
 
